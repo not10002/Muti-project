@@ -1,4 +1,4 @@
-# Muti-project
+# Multi-project
 # ชิเชนอิตซา
 ![alt text](https://cdn.discordapp.com/attachments/708235584891650088/710881148917514270/800px-Chichen_Itza_3.png) <br />
 คำอธิบายสถานที่<br />
